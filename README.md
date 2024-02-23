@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Ivan Eko and my codename is Zera ^_^
 
+![Profile views counter](https://komarev.com/ghpvc/?username=ekoivan2&&style=flat-square)  
+
 ### Glad to see you here!  
 I’m a Mobile developer who has turned years of freelancing into a full-time career. I specialize in building mobile aplication like a android using flutter.
   
@@ -9,7 +11,10 @@ I’m a Mobile developer who has turned years of freelancing into a full-time ca
 
 
 ## Languages and Tools  
+ 
 <div align="center">  
+   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" alt="Bootstrap" height="25" /></a> 
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/666/815/png-transparent-dart-google-chrome-web-application-flutter-darts-blue-angle-triangle-thumbnail.png" alt="Bootstrap" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -43,7 +48,6 @@ I’m a Mobile developer who has turned years of freelancing into a full-time ca
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ekoivan2&&style=flat-square)  
   
 
 <br/>  
